@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './train.component.css'
 })
 export class TrainComponent {
-  message:string="Pranay"
+  message:string="Pranay";
+  message1:string="Bhagat"
 }
